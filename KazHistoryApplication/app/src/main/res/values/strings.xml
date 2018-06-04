@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KazHistoryApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_correct_answer">CorrectAnswerActivity</string>
+    <string name="title_activity_wrong_answer">WrongAnswerActivity</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="o1">МӘЗІР</string>
+    <string name="o2">ҚАЙТАДАН</string>
+    <string name="o3">БӘРЕКЛЕДІ</string>
+
+</resources>
